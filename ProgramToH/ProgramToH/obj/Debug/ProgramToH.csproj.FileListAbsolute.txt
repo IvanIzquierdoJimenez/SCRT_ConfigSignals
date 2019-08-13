@@ -1,0 +1,10 @@
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\bin\Debug\ProgramToH.exe.config
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\bin\Debug\ProgramToH.exe
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\bin\Debug\ProgramToH.pdb
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.csprojAssemblyReference.cache
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.Form1.resources
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.Properties.Resources.resources
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.csproj.GenerateResource.cache
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.csproj.CoreCompileInputs.cache
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.exe
+C:\Users\Proggramer\source\repos\ProgramToH\ProgramToH\obj\Debug\ProgramToH.pdb
